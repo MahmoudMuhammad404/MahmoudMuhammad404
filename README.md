@@ -28,10 +28,6 @@ I am Mahmoud Muhammad, a Back-End Developer specializing in Node.js. Currently, 
 - Web Technologies: HTML, CSS
 - Problem Solving: Data Structures, Algorithms
 
-Note: You should not provide a list of sources/bibliography at the end of the response.
-
-
-Note: You should not provide a list of sources/bibliography at the end of the response.
 
 
 

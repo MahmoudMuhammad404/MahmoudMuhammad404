@@ -42,8 +42,8 @@ Computer Science, with a strong commitment to continuous learning and technical 
 ### My Stats ⭐
 
 <div align="center">
-<img alt="Mahmoud's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=MahmoudMuhammad404&show_icons=true&theme=transparent"/>
-<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudMuhammad404&layout=compact&&langs_count=8"/>
+  <img alt="Mahmoud's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=MahmoudMuhammad404&show_icons=true&theme=transparent" />
+  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudMuhammad404&layout=compact&langs_count=8&theme=transparent" />
 </div>
 
 

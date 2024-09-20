@@ -1,32 +1,49 @@
-# Mahmoud Muhammad Abdulmawjoud
+### Hi, I'm Mahmoud 👋
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mahmoud-muhammad-6774b92b3">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/MahmoudMuhammad404">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github&logoColor=white" alt="GitHub">
-  </a>
-</p>
+Back-End Developer with strong problem-solving skills and experience in building efficient, secure web 
+applications. Proficient in creating RESTful APIs, managing databases, actively pursuing a Bachelor's degree in 
+Computer Science, with a strong commitment to continuous learning and technical excellence.
+:mailbox: Reach me out!
 
-<p align="center">
-  <img src="https://github.com/MahmoudMuhammad404/MahmoudMuhammad404/assets/167311736/ebaacf6f-a10e-4f49-975a-41818d1aa16f" alt="Profile Image" width="200" height="200">
-</p>
+[![Twitter Badge](https://img.shields.io/badge/-@MahmoudMuhammad404-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/MahmoudMuhammad404)](https://twitter.com/MahmoudMuhammad404)
+[![LinkedIn Badge](https://img.shields.io/badge/-Mahmoud_Muhammad-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-muhammad-6774b92b3/)
+[![Mail Badge](https://img.shields.io/badge/-Mahmoud_Muhammad-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:mahmoudmuhammadd0@gmail.com)
+[![Resume Badge](https://img.shields.io/badge/-View%20My%20Resume-FF5733?style=flat&labelColor=FF5733&logo=pdf&logoColor=white)](https://drive.google.com/file/d/1ox50fmkIeWfNpc3Nk3SVMlI2tgBq8eDs/view?usp=sharing)
 
-## About Me
-I am Mahmoud Muhammad, a Back-End Developer specializing in Node.js. Currently, I am a student pursuing a Special Degree in Computer Science at the prestigious Faculty of Science. With a strong passion for problem-solving, I enjoy working with Java, OOP, data structures, algorithms, JavaScript , Node.js , Express.js , MongoDB, Mongoose, MySQL ,REST APIs, HTML, CSS , GO and C++ .
 
-## Contact Me
-- Email: mahmoudmuhammadd0@gmail.com
-- Phone: 01205215565
-- Location: Alexandria-Egypt
+### Skills
+[![HTML Badge](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=white)](#)
+[![CSS Badge](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=white)](#)
+[![Java Badge](https://img.shields.io/badge/-Java-007396?style=for-the-badge&labelColor=black&logo=java&logoColor=white)](#)
+[![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=black)](#)
+[![TypeScript Badge](https://img.shields.io/badge/-TypeScript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=white)](#)
+[![Node.js Badge](https://img.shields.io/badge/-Node.js-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=white)](#)
+[![Express Badge](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&labelColor=black&logo=express&logoColor=white)](#)
+[![MongoDB Badge](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=white)](#)
+[![MySQL Badge](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&labelColor=black&logo=mysql&logoColor=white)](#)
+[![Mongoose Badge](https://img.shields.io/badge/-Mongoose-47A248?style=for-the-badge&labelColor=black&logo=mongoose&logoColor=white)](#)
+[![REST APIs Badge](https://img.shields.io/badge/-REST%20APIs-4B4B4B?style=for-the-badge&labelColor=black&logo=api&logoColor=white)](#)
+[![Git Badge](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=white)](#)
+[![Socket.io Badge](https://img.shields.io/badge/-Socket.io-010101?style=for-the-badge&labelColor=black&logo=socket.io&logoColor=white)](#)
+[![Algorithms Badge](https://img.shields.io/badge/-Algorithms-007ACC?style=for-the-badge&labelColor=black&logo=algorithm&logoColor=white)](#)
+[![Data Structures Badge](https://img.shields.io/badge/-Data%20Structures-007ACC?style=for-the-badge&labelColor=black&logo=algorithm&logoColor=white)](#)
+[![OOP Badge](https://img.shields.io/badge/-OOP-007ACC?style=for-the-badge&labelColor=black&logo=object-oriented&logoColor=white)](#)
+[![SOLID Principles Badge](https://img.shields.io/badge/-SOLID%20Principles-007ACC?style=for-the-badge&labelColor=black&logo=solid&logoColor=white)](#)
+[![Problem Solving Badge](https://img.shields.io/badge/-Problem%20Solving-007ACC?style=for-the-badge&labelColor=black&logo=problem-solving&logoColor=white)](#)
 
-## Skills
-- Programming Languages: Java, JavaScript, C++, Go
-- Frameworks and Libraries: Node.js, Express.js
-- Databases: MongoDB, Mongoose (ODM), MySQL
-- Web Technologies: HTML, CSS
-- Problem Solving: Data Structures, Algorithms
+<br>
+🔭 Currently developing Bayti-Ecommerce, an eCommerce app designed to connect users with local brands, like food, artisans, and clothing. It offers enhanced features for user interaction, secure authentication, and efficient data management, inspired by platforms like TALAPAT.
+
+
+<br>
+<br/>
+
+### My Stats ⭐
+
+<div align="center">
+<img alt="Mahmoud's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=MahmoudMuhammad404&show_icons=true&theme=transparent"/>
+<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudMuhammad404&layout=compact&&langs_count=8"/>
+</div>
 
 
 

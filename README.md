@@ -3,7 +3,14 @@
 Back-End Developer with strong problem-solving skills and experience in building efficient, secure web 
 applications. Proficient in creating RESTful APIs, managing databases, actively pursuing a Bachelor's degree in 
 Computer Science, with a strong commitment to continuous learning and technical excellence.
+
+<div style="text-align: center;">
+    <img src="https://i.etsystatic.com/11122259/r/il/8c1a6a/1267512024/il_fullxfull.1267512024_nn2j.jpg" alt="Programming Animation" width="980" height="400" />
+</div>
+
+
 :mailbox: Reach me out!
+
 
 [![LinkedIn Badge](https://img.shields.io/badge/-Mahmoud_Muhammad-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-muhammad-6774b92b3/)
 [![Mail Badge](https://img.shields.io/badge/-Mahmoud_Muhammad-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:mahmoudmuhammadd0@gmail.com)

@@ -5,10 +5,11 @@ applications. Proficient in creating RESTful APIs, managing databases, actively 
 Computer Science, with a strong commitment to continuous learning and technical excellence.
 :mailbox: Reach me out!
 
-[![Twitter Badge](https://img.shields.io/badge/-@MahmoudMuhammad404-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/MahmoudMuhammad404)](https://twitter.com/MahmoudMuhammad404)
 [![LinkedIn Badge](https://img.shields.io/badge/-Mahmoud_Muhammad-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-muhammad-6774b92b3/)
 [![Mail Badge](https://img.shields.io/badge/-Mahmoud_Muhammad-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:mahmoudmuhammadd0@gmail.com)
 [![Resume Badge](https://img.shields.io/badge/-View%20My%20Resume-FF5733?style=flat&labelColor=FF5733&logo=pdf&logoColor=white)](https://drive.google.com/file/d/1ox50fmkIeWfNpc3Nk3SVMlI2tgBq8eDs/view?usp=sharing)
+[![GitHub Badge](https://img.shields.io/badge/-Mahmoud_Muhammad-181717?style=flat&labelColor=181717&logo=github&logoColor=white)](https://github.com/MahmoudMuhammad404/MahmoudMuhammad404/)
+
 
 
 ### Skills

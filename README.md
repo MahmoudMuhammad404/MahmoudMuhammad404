@@ -40,8 +40,7 @@ Computer Science, with a strong commitment to continuous learning and technical 
 [![Problem Solving Badge](https://img.shields.io/badge/-Problem%20Solving-007ACC?style=for-the-badge&labelColor=black&logo=problem-solving&logoColor=white)](#)
 
 <br>
-🔭 Currently developing Bayti-Ecommerce, an eCommerce app designed to connect users with local brands, like food, artisans, and clothing. It offers enhanced features for user interaction, secure authentication, and efficient data management, inspired by platforms like TALAPAT.
-
+🔭 Currently Developing: SphinxGo App – an innovative cross-platform 🌐 (Android + iOS) tourism application and my graduation project. SphinxGo lets you easily ✈️ Book Flights, 🗺️ Reserve Tours, and 🏨 Book Hotels – all within a single platform! Plus, it features an AI-powered 🤖 Chatbot and many other exciting tools to revolutionize travel planning. Designed to simplify and enhance your journey, SphinxGo is the ultimate travel companion! 🌟
 
 <br>
 <br/>

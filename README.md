@@ -1,7 +1,7 @@
 ### Hi, I'm Mahmoud 👋
 
 Back-End Developer with strong problem-solving skills and experience in building efficient, secure web 
-applications. Proficient in creating RESTful APIs, managing databases, actively pursuing a Bachelor's degree in 
+applications. Proficient in creating RESTful APIs, managing databases, completed a Bachelor's degree in 
 Computer Science, with a strong commitment to continuous learning and technical excellence.
 
 <div style="text-align: center;">

@@ -14,7 +14,7 @@ Computer Science, with a strong commitment to continuous learning and technical 
 
 [![LinkedIn Badge](https://img.shields.io/badge/-Mahmoud_Muhammad-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-muhammad-6774b92b3/)
 [![Mail Badge](https://img.shields.io/badge/-Mahmoud_Muhammad-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:mahmoudmuhammadd0@gmail.com)
-[![Resume Badge](https://img.shields.io/badge/-View%20My%20Resume-FF5733?style=flat&labelColor=FF5733&logo=pdf&logoColor=white)](https://drive.google.com/file/d/1aNGzi72xy0gFxcgwZP3HC8bxVQrS3Lyz/view?usp=sharing)
+[![Resume Badge](https://img.shields.io/badge/-View%20My%20Resume-FF5733?style=flat&labelColor=FF5733&logo=pdf&logoColor=white)](https://drive.google.com/file/d/17E6M2E1WoM0XA4nNO-vwkbJkd5bXcAg6/view?usp=sharing)
 [![GitHub Badge](https://img.shields.io/badge/-Mahmoud_Muhammad-181717?style=flat&labelColor=181717&logo=github&logoColor=white)](https://github.com/MahmoudMuhammad404/MahmoudMuhammad404/)
 
 
@@ -39,10 +39,7 @@ Computer Science, with a strong commitment to continuous learning and technical 
 [![SOLID Principles Badge](https://img.shields.io/badge/-SOLID%20Principles-007ACC?style=for-the-badge&labelColor=black&logo=solid&logoColor=white)](#)
 [![Problem Solving Badge](https://img.shields.io/badge/-Problem%20Solving-007ACC?style=for-the-badge&labelColor=black&logo=problem-solving&logoColor=white)](#)
 
-<br>
-🔭 Currently Developing: SphinxGo App – an innovative cross-platform 🌐 (Android + iOS) tourism application and my graduation project. SphinxGo lets you easily ✈️ Book Flights, 🗺️ Reserve Tours, and 🏨 Book Hotels – all within a single platform! Plus, it features an AI-powered 🤖 Chatbot and many other exciting tools to revolutionize travel planning. Designed to simplify and enhance your journey, SphinxGo is the ultimate travel companion! 🌟
 
-<br>
 <br/>
 
 

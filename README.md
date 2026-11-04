@@ -1,7 +1,7 @@
 # Mahmoud Muhammad
 
-**Back-End Engineer** · Fintech and SaaS Platforms
-Node.js · NestJS · TypeScript · PostgreSQL · Redis
+Back-End Developer with a B.Sc. in Computer Science (CGPA 3.50/4.0) and 2+ years building production-grade, scalable web services with Node.js, NestJS, TypeScript, and Express.js. Experienced in REST API design, multi-tenant SaaS, payment gateway integration, real-time systems, and clean layered architecture across PostgreSQL, MySQL, MongoDB, and Redis. Delivered ERP, CRM, and POS platforms from design through production deployment.
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-muhammad-6774b92b3/)
 [![Email](https://img.shields.io/badge/Email-C0392B?style=flat-square&logo=gmail&logoColor=white)](mailto:mahmoudmuhammadd0@gmail.com)
